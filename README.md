@@ -1,6 +1,6 @@
 # vgg19-tensorflowjs-model
 
-[Tensorflow.js](https://js.tensorflow.org) model of VGG-19.
+[Tensorflow.js](https://js.tensorflow.org) pretrained model of VGG-19.
 
 ## How to use it?
 
